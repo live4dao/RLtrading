@@ -308,7 +308,7 @@ def main():
 
     model_name = os.path.basename(__file__).split('.')[0]
 
-    df = pd.read_csv('D:\[AIA]\workspace\TradingGym\dataset\TXF1_5m.csv', parse_dates=[['Date', 'Time']])
+    df = pd.read_csv('TXF1_5m.csv', parse_dates=[['Date', 'Time']])
     df = df.iloc[-10001:]
     df.reset_index(drop=True, inplace=True)
     df = df.rename(columns={'Date_Time': 'datetime'})
