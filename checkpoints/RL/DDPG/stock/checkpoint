@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\[AIA]\\Personae\\checkpoints\\RL\\DDPG\\stock\\model"
+all_model_checkpoint_paths: "D:\\[AIA]\\Personae\\checkpoints\\RL\\DDPG\\stock\\model"
