@@ -1,2 +1,2 @@
-model_checkpoint_path: "/content/RLtrading/checkpoints/RL/colab/future/model"
-all_model_checkpoint_paths: "/content/RLtrading/checkpoints/RL/colab/future/model"
+model_checkpoint_path: "/content/gdrive/My Drive/RLtrading/checkpoints/RL/colab/future/model"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/RLtrading/checkpoints/RL/colab/future/model"
